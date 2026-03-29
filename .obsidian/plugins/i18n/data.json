@@ -174,7 +174,9 @@
     "[!?,;:。！？，；：]\\s*$"
   ],
   "githubProxyUrl": "https://ghp.ci/",
-  "cloudRepos": [],
+  "cloudRepos": [
+    "yunrr/obsidian-i18n-resources"
+  ],
   "defaultCloudRepo": "eondrcode/obsidian-i18n-resources",
   "managerTab": "plugins",
   "pluginViewMode": "list",
