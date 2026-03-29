@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "sources": {
+    "A46yObist03_SC_LQfxTVErsbZlcyaIL": {
+      "id": "A46yObist03_SC_LQfxTVErsbZlcyaIL",
+      "plugin": "obsidian-git",
+      "title": "Git",
+      "type": "plugin",
+      "origin": "local",
+      "isActive": true,
+      "checksum": "85dc72ef4a31d8f72de50ad0ec6f9d4b65d40ebc8f45bb5be6bc8d87886f8497",
+      "updatedAt": 1774761467601,
+      "createdAt": 1774761467600
+    }
+  }
+}
